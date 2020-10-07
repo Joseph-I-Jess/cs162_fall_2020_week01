@@ -4,6 +4,7 @@
     ToDo:
         write more tests
         include file IO
+        fix git repositories
 """
 
 class Person:
